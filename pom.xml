@@ -12,6 +12,7 @@
         <module>gupaoedu-learn-pattern-factory</module>
         <module>gupaoedu-learn-pattern-singleton</module>
         <module>gupaoedu-learn-pattern-prototype</module>
+        <module>gupaoedu-learn-pattern-proxy</module>
     </modules>
 
 
