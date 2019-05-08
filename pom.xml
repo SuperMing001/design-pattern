@@ -14,6 +14,7 @@
         <module>gupaoedu-learn-pattern-prototype</module>
         <module>gupaoedu-learn-pattern-proxy</module>
         <module>gupaoedu-learn-pattern-delegate</module>
+        <module>gupaoedu-learn-pattern-strategy</module>
     </modules>
 
 
