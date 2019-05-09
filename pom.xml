@@ -17,6 +17,8 @@
         <module>gupaoedu-learn-pattern-strategy</module>
         <module>gupaoedu-learn-pattern-template</module>
         <module>gupaoedu-learn-pattern-adapter</module>
+        <module>gupaoedu-learn-pattern-decorator</module>
+        <module>gupaoedu-learn-pattern-observer</module>
     </modules>
 
 
